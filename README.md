@@ -1,2 +1,2 @@
 # pl2_vm
-Virtual machine for prtotipes
+Virtual machine for prototypes
