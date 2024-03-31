@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\v01",
+    "\\v01\\pl2_data",
+    "\\v01\\pl2_main"
   ],
+  "SelectedNode": "\\v01\\DATA",
   "PreviewInSolutionExplorer": false
 }
